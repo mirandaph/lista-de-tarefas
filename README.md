@@ -1,9 +1,10 @@
-# Lista-De-Tarefas
+## Lista-De-Tarefas
 
 Comandos para funcionamento:
+```
     npm run serve
     npm run backend
-
+```
 ## Project setup
 ```
 npm install
