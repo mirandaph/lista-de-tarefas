@@ -1,8 +1,12 @@
-## Lista-De-Tarefas
+## Lista de tarefas
 
 Comandos para funcionamento:
 ```
+    TERMINAL 1
+    npm install
     npm run serve
+    
+    TERMINAL 2
     npm run backend
 ```
 ## Project setup
